@@ -1,6 +1,6 @@
 /* homepage styling */ 
 body.homepage {
-    background-image: url("./images/background.jpg"); 
+    background-image: url("../images/background.jpg"); 
     background-size: cover; /* Make the image cover the whole viewport */
     background-position: center center; /* Center the image */
     background-attachment: fixed; /* Keep the image fixed when scrolling */
@@ -39,7 +39,7 @@ a:hover{
 /* GAMES PAGE STYLING */ 
 body { 
   background-color: black; 
-  background-image: url("./images/bg_red_line_01b044042d3de0bf2fa64ba808a727f6.png"), url("./images/bg_red_dot_d849572b3f0934e660bdd7b972b54869.png"); 
+  background-image: url("../images/bg_red_line_01b044042d3de0bf2fa64ba808a727f6.png"), url("../images/bg_red_dot_d849572b3f0934e660bdd7b972b54869.png"); 
   background-size: cover; 
   height: 100vh; 
 }
